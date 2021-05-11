@@ -11,7 +11,7 @@
     Gulp and send to the /css folder which is then loaded on the page.
 */
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px
 }
 
@@ -413,10 +413,14 @@ footer {
     margin-left: 350px;
     background: #fff;
     border: 1px solid #e6e6e6;
-    padding: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
     border-radius: 3px;
-    text-align: left
+    text-align: left;
 }
+
 
 .vtimeline-content h3 {
     font-size: 1.5em;
@@ -526,14 +530,17 @@ footer {
 #projects {
     padding: 50px 15px;
     border-bottom: 1px solid #dcd9d9;
-    text-align: center
+    text-align: left
 }
 
 #projects h2 {
     color: #374054;
     margin-bottom: 50px
 }
-
+#projects h2.heading {
+    display: block;
+    text-align: center;
+}
 .project {
     position: relative;
     max-width: 900px;
@@ -548,23 +555,29 @@ footer {
 }
 
 .project-info {
-    position: absolute;
+    /*position: absolute;
     top: 50%;
-    transform: translateY(-50%);
-    margin-left: 300px;
-    padding: 15px
+    transform: translateY(-50%);*/
+    margin-left: 330px;
+    margin-right: 50px
+    /* padding: 15px; */
 }
 
 .project-info h3 {
     font-size: 1.5em;
-    font-weight: 300;
-    color: #374054;
-    margin: 0 0 15px 0
+     /*font-weight: 300;*/
+    font-weight: bold;
+    color: #374054
+     /*margin: 0 0 15px 0*/
 }
+.project-info a {
+  
+     font-weight: 900
 
+}
 .project-info p {
-    color: #74808a;
-    margin: 0 0 15px 0;
+        color: #74808a;
+     /*margin: 0 0 15px 0;*/
     font-size: 0.9em
 }
 
