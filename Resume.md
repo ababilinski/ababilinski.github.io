@@ -8,14 +8,14 @@
 ---
 <center><h2>Table of Contents</h2></center>
 
-[**Technical Experience**](#experience)
-[**Published Project**](#project)
-[**Published Assets**](#assets)
-[**Prototypes**](#prototypes)
-[**GitHub Contributions**](#github)
-[**Awards**](#awards)
-[**Recommendations**](#recommendations)
-[**Certifications and Licenses**](#certifications)
+- [**Technical Experience**](#experience)
+- [**Published Project**](#published)
+- [**Published Assets**](#assets)
+- [**Prototypes**](#prototypes)
+- [**GitHub Contributions**](#github)
+- [**Awards**](#awards)
+- [**Recommendations**](#recommendations)
+- [**Certifications and Licenses**](#certifications)
 
 
 ---
@@ -55,16 +55,6 @@
 > - Created publishing materials for PlayStationVR.
 > - Assisted in publishing Power Solitaire VR for Oculus and Daydream
 > - Introduced team of two to Jira and optimized workflow with Bitbucket.
-
-
-**Lead Unity Developer**
-**The Halsey Group LLC** -August 2018 to October 2018
-
-> - Responsible for leading three other developers to create a minimal viable product.
-> - Developed VR networking demo using photon.
-> - Created tools for junior developers to simplify network integration by developing modular code systems.
-> - Implemented external API  such as Google Cloud for natural language understanding and speech to text.
-
 
 **Unity Developer**
 **Great Wave Tech** - January 2016 to October 2017
