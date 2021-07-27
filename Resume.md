@@ -1,13 +1,14 @@
-<center><h2> Adrian Babilinski</h2></size></center>
+<center><h1> Adrian Babilinski</h1></size></center>
 <center>Website:  https://ababilinski.github.io/</center>
 
 
 ---
 
-> My name is Adrian Babilinski, and I have been working as a professional Unity Developer for the last 5 years. Before working as a developer, I developed assets for the Unity Asset Store, trained students, and provided tutoring. As a Unity Certified Instructor and Programmer, I strive to provide the best Unity solutions possible: focusing on usability and code quality.
+> A professional Unity developer and Certified Instructor with over 5 years of experience. Actively participated in all stages of the development lifecycle and knows how to manage risk while releasing product. Strives to provide the best Unity solutions possible: focusing on usability, maintainability, and quality.
 ---
 <center><h2>Table of Contents</h2></center>
 
+- [**Skills**](#skills)
 - [**Technical Experience**](#experience)
 - [**Published Project**](#published)
 - [**Published Assets**](#assets)
@@ -17,6 +18,16 @@
 - [**Recommendations**](#recommendations)
 - [**Certifications and Licenses**](#certifications)
 
+---
+<a name="experience"><center><h2>Skills</h2></center></a>
+|  |  |
+|--|--|
+|**· Expert in C#**|**· Unity Certified Artist**|
+|**· Expert in Code Structure**|**· Expert AR/VR Developer**|
+|**· Proficient in Source Control**|**· Prior C++ Experience**|
+|**· Expert in Agile Development and Scrum**|**· Prior Java Experience**|
+|**· Unity Certified Programmer**|**· Unity Certified Instructor**|
+|**· Unity Certified Training Partner**|**· Prior Blender 3D Experience**|
 
 ---
 <a name="experience"><center><h2>Technical Experience</h2></center></a>
